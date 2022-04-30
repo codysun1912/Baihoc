@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "codysun1912",
+      "description": "minh nhut",
+      "id": 2
+    },
+    {
+      "title": "front-end",
+      "description": "helllo",
+      "id": 3
+    },
+    {
+      "title": "front-end",
+      "description": "helllo",
+      "id": 4
+    },
+    {
+      "title": "front-end",
+      "description": "helllo",
+      "id": 6
+    },
+    {
+      "title": "front-end",
+      "description": "helllo",
+      "id": 7
+    },
+    {
+      "title": "front-end",
+      "description": "helllo",
+      "id": 8
+    },
+    {
+      "title": "front-end",
+      "description": "helllo",
+      "id": 9
+    },
+    {
+      "title": "front-end",
+      "description": "helllo0",
+      "author": "nhut",
+      "id": 10
+    },
+    {
+      "title": "front-end",
+      "description": "helllo0",
+      "author": "nhut",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

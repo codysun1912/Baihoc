@@ -1,0 +1,6 @@
+window.addEventListener("load ", function(){
+    const form = document.querySelector(".todo-form");
+    form.addEventListener("submit", function(e){
+        e.preventDefault();
+    })
+})
